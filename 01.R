@@ -1,0 +1,5 @@
+seq(2.0, by = .3, length = 9)
+paste(rep(letters[1:2], each = 2), rep(letters[24:26], 1:3))
+as.logical(rep(0:1, 2*(1:2)))
+rep(1:6, 1:6)
+rep(0:3, 4) * rep(1:4, each = 4)
